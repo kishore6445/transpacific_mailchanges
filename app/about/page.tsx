@@ -20,7 +20,7 @@ import {
 export const metadata: Metadata = {
   title: "About Transpacific | Your Gateway to Global Opportunities",
   description:
-    "Learn about Transpacific Immigration Services - your trusted partner for international education and immigration services with over a decade of experience.",
+    "Learn about Transpacific Immigration Services - yourtrusted partner for international education and immigration services with over a decade of experience.",
 };
 
 export default function AboutPage() {
